@@ -1,0 +1,6 @@
+module edtechplatformssystems
+
+go 1.21
+
+require (
+)
